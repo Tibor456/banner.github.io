@@ -1,0 +1,31 @@
+header {
+    background-image: url("MV5BYTRlZjIyMGYtOTEwMi00NmFjLWI5YWYtMzU0ZThjMTQ2Mjg1XkEyXkFqcGdeQWpnYW1i._V1_.jpg");
+    background-size: cover;
+    width:970px;
+    height:250px;
+   margin:auto;
+}
+h1 {
+    text-align:center;
+    color:white;  
+     font-family:Verdana;
+    -webkit-text-stroke-width:3px;
+    -webkit-text-stroke-color: black;
+    text-transform: uppercase;
+    }
+    p {
+        color:white;
+        font-size:20px;
+        margin-top:180px;
+        margin-left:20px;
+    }
+nav {
+    margin:auto;
+    width:200px;
+}
+
+    button:hover{
+        color:blue;
+        background-color:white;
+
+    }
